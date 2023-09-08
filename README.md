@@ -44,7 +44,3 @@ To improve the efficiency and effectiveness of our classification models, we per
 The heart of our project is the classification of fNIRS data. We apply various machine learning classifiers and strategies, including ensemble learning techniques.
 
 
-## Contributing
-
-We welcome contributions from the community to enhance and expand this project. If you have ideas for improvements, wish to report issues, or want to contribute code, please review our [Contribution Guidelines](CONTRIBUTING.md).
-
